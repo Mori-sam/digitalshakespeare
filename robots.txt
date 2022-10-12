@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mori-sam.github.io/digitalshakespeare/sitemap.xml

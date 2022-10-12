@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Sam&#x27;s Week 3 Website</title>
+    <link href="https://mori-sam.github.io/digitalshakespeare/feed.xml" rel="self" />
+    <link href="https://mori-sam.github.io/digitalshakespeare" />
+    <updated>1969-12-31T16:00:00-08:00</updated>
+    <author>
+        <name>Yongsen Huang</name>
+    </author>
+    <id>https://mori-sam.github.io/digitalshakespeare</id>
+
+</feed>
