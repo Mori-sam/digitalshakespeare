@@ -9,5 +9,34 @@
         "name": "Yongsen Huang"
     },
     "items": [
+        {
+            "id": "https://mori-sam.github.io/digitalshakespeare/meet-the-project-team.html",
+            "url": "https://mori-sam.github.io/digitalshakespeare/meet-the-project-team.html",
+            "title": "Meet the Project Team",
+            "summary": "Jane Bruin Principal Investigator Joe Bruin GSR",
+            "content_html": "<h2><strong>Jane Bruin</strong></h2>\n<h3><strong>Principal Investigator</strong></h3>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://mori-sam.github.io/digitalshakespeare/media/posts/2//Jane-Bruin-copy-2.jpg\" sizes=\"100vw\" srcset=\"https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Jane-Bruin-copy-2-xs.jpg 300w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Jane-Bruin-copy-2-sm.jpg 480w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Jane-Bruin-copy-2-md.jpg 768w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Jane-Bruin-copy-2-lg.jpg 1024w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Jane-Bruin-copy-2-xl.jpg 1360w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Jane-Bruin-copy-2-2xl.jpg 1600w\"  alt=\"\" width=\"250\" height=\"250\"></figure>\n<h2>Joe Bruin </h2>\n<h3>GSR</h3>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://mori-sam.github.io/digitalshakespeare/media/posts/2//Joe-Bruin-cropped-640x640.jpeg\" sizes=\"100vw\" srcset=\"https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Joe-Bruin-cropped-640x640-xs.jpeg 300w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Joe-Bruin-cropped-640x640-sm.jpeg 480w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Joe-Bruin-cropped-640x640-md.jpeg 768w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Joe-Bruin-cropped-640x640-lg.jpeg 1024w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Joe-Bruin-cropped-640x640-xl.jpeg 1360w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Joe-Bruin-cropped-640x640-2xl.jpeg 1600w\"  alt=\"\" width=\"250\" height=\"250\"></figure>",
+            "image": "https://mori-sam.github.io/digitalshakespeare/media/posts/2/Shakespeare_signature_6.jpeg",
+            "author": {
+                "name": "Yongsen Huang"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-12T10:39:18-07:00",
+            "date_modified": "2022-10-12T11:15:59-07:00"
+        },
+        {
+            "id": "https://mori-sam.github.io/digitalshakespeare/welcome-to-digital-shakespeare.html",
+            "url": "https://mori-sam.github.io/digitalshakespeare/welcome-to-digital-shakespeare.html",
+            "title": "Welcome to Digital Shakespeare",
+            "summary": "Welcome to Digital Shakespeare where we explore Shakespeare's work computationally. Check out this cool viz I made using the corpus of Shakespeare's writing using Voyant Tools!",
+            "content_html": "<p class=\"align-center\">Welcome to Digital Shakespeare where we explore Shakespeare's work computationally.</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"695\" height=\"388\" style=\"width: 695px; height: 388px;\" src=\"https://www.youtube.com/embed/HUHEPo_g0AQ\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p class=\"align-center\">Check out this cool viz I made using the corpus of Shakespeare's writing using <a href=\"https://voyant-tools.org/\">Voyant Tools</a>!</p>\n<iframe loading=\"lazy\" style=\"width: 100%; height: 800px;\" src=\"https://voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&amp;corpus=shakespeare\"></iframe>\n<p> </p>",
+            "author": {
+                "name": "Yongsen Huang"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-12T10:18:05-07:00",
+            "date_modified": "2022-10-12T11:16:06-07:00"
+        }
     ]
 }

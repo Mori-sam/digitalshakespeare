@@ -3,10 +3,61 @@
     <title>Sam&#x27;s Week 3 Website</title>
     <link href="https://mori-sam.github.io/digitalshakespeare/feed.xml" rel="self" />
     <link href="https://mori-sam.github.io/digitalshakespeare" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2022-10-12T11:16:06-07:00</updated>
     <author>
         <name>Yongsen Huang</name>
     </author>
     <id>https://mori-sam.github.io/digitalshakespeare</id>
 
+    <entry>
+        <title>Meet the Project Team</title>
+        <author>
+            <name>Yongsen Huang</name>
+        </author>
+        <link href="https://mori-sam.github.io/digitalshakespeare/meet-the-project-team.html"/>
+        <id>https://mori-sam.github.io/digitalshakespeare/meet-the-project-team.html</id>
+
+        <updated>2022-10-12T11:15:59-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mori-sam.github.io/digitalshakespeare/media/posts/2/Shakespeare_signature_6.jpeg" alt="Shakespeare&#x27;s Signature" />
+                    Jane Bruin Principal Investigator Joe Bruin GSR
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mori-sam.github.io/digitalshakespeare/media/posts/2/Shakespeare_signature_6.jpeg" alt="Shakespeare&#x27;s Signature" />
+                <h2><strong>Jane Bruin</strong></h2>
+<h3><strong>Principal Investigator</strong></h3>
+<figure class="post__image"><img loading="lazy"  src="https://mori-sam.github.io/digitalshakespeare/media/posts/2//Jane-Bruin-copy-2.jpg" sizes="100vw" srcset="https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Jane-Bruin-copy-2-xs.jpg 300w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Jane-Bruin-copy-2-sm.jpg 480w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Jane-Bruin-copy-2-md.jpg 768w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Jane-Bruin-copy-2-lg.jpg 1024w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Jane-Bruin-copy-2-xl.jpg 1360w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Jane-Bruin-copy-2-2xl.jpg 1600w"  alt="" width="250" height="250"></figure>
+<h2>Joe Bruin </h2>
+<h3>GSR</h3>
+<figure class="post__image"><img loading="lazy"  src="https://mori-sam.github.io/digitalshakespeare/media/posts/2//Joe-Bruin-cropped-640x640.jpeg" sizes="100vw" srcset="https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Joe-Bruin-cropped-640x640-xs.jpeg 300w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Joe-Bruin-cropped-640x640-sm.jpeg 480w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Joe-Bruin-cropped-640x640-md.jpeg 768w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Joe-Bruin-cropped-640x640-lg.jpeg 1024w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Joe-Bruin-cropped-640x640-xl.jpeg 1360w ,https://mori-sam.github.io/digitalshakespeare/media/posts/2//responsive/Joe-Bruin-cropped-640x640-2xl.jpeg 1600w"  alt="" width="250" height="250"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Welcome to Digital Shakespeare</title>
+        <author>
+            <name>Yongsen Huang</name>
+        </author>
+        <link href="https://mori-sam.github.io/digitalshakespeare/welcome-to-digital-shakespeare.html"/>
+        <id>https://mori-sam.github.io/digitalshakespeare/welcome-to-digital-shakespeare.html</id>
+
+        <updated>2022-10-12T11:16:06-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Welcome to Digital Shakespeare where we explore Shakespeare's work computationally. Check out this cool viz I made using the corpus of Shakespeare's writing using Voyant Tools!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">Welcome to Digital Shakespeare where we explore Shakespeare's work computationally.</p>
+<figure class="post__video"><iframe loading="lazy" width="695" height="388" style="width: 695px; height: 388px;" src="https://www.youtube.com/embed/HUHEPo_g0AQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p class="align-center">Check out this cool viz I made using the corpus of Shakespeare's writing using <a href="https://voyant-tools.org/">Voyant Tools</a>!</p>
+<iframe loading="lazy" style="width: 100%; height: 800px;" src="https://voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&amp;corpus=shakespeare"></iframe>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
